@@ -1,0 +1,4 @@
+farm_id,latitude,longitude,district_id,district_name,phh2o_0_5cm,ocd_0_5cm,sand_0_5cm,clay_0_5cm
+f1,11.0168,76.9558,578,Chennai,,,,
+f2,10.7905,78.7047,579,Coimbatore,,,,
+f3,9.9252,78.1198,580,Madurai,,,,

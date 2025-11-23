@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.env
+TN_soil_dataset.csv
+*.DS_Store

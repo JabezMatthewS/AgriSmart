@@ -1,0 +1,8 @@
+flask
+geopandas
+pandas
+shapely
+scipy
+scikit-learn
+numpy
+gunicorn
