@@ -62,7 +62,9 @@ def get_weather(district_name):
 def predict_crop(N, P, K, temp, hum, ph, rain):
     if model:
         # Feature order must match training: N, P, K, temperature, humidity, ph, rainfall
-        features = np.array([[N, P, K, temp, hum, ph, rain]])
+        # Feature order must match training: N, P, K, temperature, humidity, ph, rainfall
+        features = pd.DataFrame([[N, P, K, temp, hum, ph, rain]], 
+                              columns=['N', 'P', 'K', 'temperature', 'humidity', 'ph', 'rainfall'])
         
         # Get probabilities for all classes
         probs = model.predict_proba(features)[0]
