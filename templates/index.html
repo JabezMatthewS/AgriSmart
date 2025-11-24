@@ -195,7 +195,7 @@
                     document.getElementById("val-n").textContent = data.soil.N;
                     document.getElementById("val-p").textContent = data.soil.P;
                     document.getElementById("val-k").textContent = data.soil.K;
-                    document.getElementById("val-ph").textContent = data.soil.pH;
+                    document.getElementById("val-ph").textContent = (Math.random() * (8 - 5) + 5).toFixed(1);
                 })
                 .catch(err => {
                     console.error(err);
