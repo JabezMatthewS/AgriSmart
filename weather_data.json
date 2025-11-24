@@ -1,40 +1,162 @@
 {
-    "Ariyalur": {"temperature": 29.5, "humidity": 70, "rainfall": 950},
-    "Chengalpattu": {"temperature": 28.0, "humidity": 75, "rainfall": 1200},
-    "Chennai": {"temperature": 28.5, "humidity": 78, "rainfall": 1400},
-    "Coimbatore": {"temperature": 26.0, "humidity": 65, "rainfall": 700},
-    "Cuddalore": {"temperature": 28.2, "humidity": 76, "rainfall": 1300},
-    "Dharmapuri": {"temperature": 27.5, "humidity": 60, "rainfall": 850},
-    "Dindigul": {"temperature": 28.0, "humidity": 62, "rainfall": 900},
-    "Erode": {"temperature": 29.0, "humidity": 55, "rainfall": 750},
-    "Kallakurichi": {"temperature": 29.2, "humidity": 68, "rainfall": 1000},
-    "Kancheepuram": {"temperature": 28.8, "humidity": 74, "rainfall": 1100},
-    "Kanyakumari": {"temperature": 27.0, "humidity": 80, "rainfall": 1450},
-    "Karur": {"temperature": 30.0, "humidity": 50, "rainfall": 650},
-    "Krishnagiri": {"temperature": 26.5, "humidity": 60, "rainfall": 800},
-    "Madurai": {"temperature": 30.5, "humidity": 55, "rainfall": 850},
-    "Mayiladuthurai": {"temperature": 28.5, "humidity": 78, "rainfall": 1250},
-    "Nagapattinam": {"temperature": 28.5, "humidity": 80, "rainfall": 1350},
-    "Namakkal": {"temperature": 29.5, "humidity": 58, "rainfall": 750},
-    "Nilgiris": {"temperature": 15.0, "humidity": 85, "rainfall": 1800},
-    "Perambalur": {"temperature": 29.8, "humidity": 65, "rainfall": 900},
-    "Pudukkottai": {"temperature": 29.5, "humidity": 68, "rainfall": 950},
-    "Ramanathapuram": {"temperature": 30.0, "humidity": 70, "rainfall": 800},
-    "Ranipet": {"temperature": 29.0, "humidity": 65, "rainfall": 1000},
-    "Salem": {"temperature": 28.5, "humidity": 60, "rainfall": 950},
-    "Sivaganga": {"temperature": 30.2, "humidity": 62, "rainfall": 850},
-    "Tenkasi": {"temperature": 28.5, "humidity": 70, "rainfall": 1100},
-    "Thanjavur": {"temperature": 29.0, "humidity": 75, "rainfall": 1100},
-    "Theni": {"temperature": 27.5, "humidity": 65, "rainfall": 950},
-    "Thoothukudi": {"temperature": 30.5, "humidity": 68, "rainfall": 700},
-    "Tiruchirappalli": {"temperature": 30.0, "humidity": 60, "rainfall": 850},
-    "Tirunelveli": {"temperature": 30.0, "humidity": 65, "rainfall": 800},
-    "Tirupathur": {"temperature": 28.0, "humidity": 62, "rainfall": 900},
-    "Tiruppur": {"temperature": 29.0, "humidity": 55, "rainfall": 700},
-    "Tiruvallur": {"temperature": 28.5, "humidity": 72, "rainfall": 1150},
-    "Tiruvannamalai": {"temperature": 29.0, "humidity": 65, "rainfall": 1050},
-    "Tiruvarur": {"temperature": 29.0, "humidity": 78, "rainfall": 1200},
-    "Vellore": {"temperature": 29.5, "humidity": 60, "rainfall": 950},
-    "Viluppuram": {"temperature": 29.2, "humidity": 70, "rainfall": 1050},
-    "Virudhunagar": {"temperature": 30.5, "humidity": 60, "rainfall": 800}
+    "Ariyalur": {
+        "temperature": 28.22,
+        "humidity": 70.08,
+        "rainfall": 1259.9
+    },
+    "Chennai": {
+        "temperature": 27.93,
+        "humidity": 76.9,
+        "rainfall": 1686.9
+    },
+    "Coimbatore": {
+        "temperature": 26.86,
+        "humidity": 69.05,
+        "rainfall": 809.3
+    },
+    "Cuddalore": {
+        "temperature": 28.23,
+        "humidity": 71.55,
+        "rainfall": 1232.7
+    },
+    "Dharmapuri": {
+        "temperature": 26.0,
+        "humidity": 67.74,
+        "rainfall": 876.4
+    },
+    "Dindigul": {
+        "temperature": 25.74,
+        "humidity": 69.63,
+        "rainfall": 1491.6
+    },
+    "Erode": {
+        "temperature": 28.13,
+        "humidity": 63.46,
+        "rainfall": 915.8
+    },
+    "Kancheepuram": {
+        "temperature": 27.99,
+        "humidity": 74.53,
+        "rainfall": 1429.6
+    },
+    "Kanniyakumari": {
+        "temperature": 26.6,
+        "humidity": 77.41,
+        "rainfall": 2608.9
+    },
+    "Karur": {
+        "temperature": 28.54,
+        "humidity": 63.77,
+        "rainfall": 935.7
+    },
+    "Krishnagiri": {
+        "temperature": 24.61,
+        "humidity": 67.4,
+        "rainfall": 873.4
+    },
+    "Madurai": {
+        "temperature": 28.4,
+        "humidity": 64.75,
+        "rainfall": 1316.9
+    },
+    "Nagappattinam": {
+        "temperature": 28.08,
+        "humidity": 75.31,
+        "rainfall": 1855.4
+    },
+    "Namakkal": {
+        "temperature": 28.06,
+        "humidity": 64.1,
+        "rainfall": 1083.5
+    },
+    "Perambalur": {
+        "temperature": 28.09,
+        "humidity": 68.38,
+        "rainfall": 1208.7
+    },
+    "Pudukkottai": {
+        "temperature": 28.31,
+        "humidity": 69.69,
+        "rainfall": 1361.9
+    },
+    "Ramanathapuram": {
+        "temperature": 28.6,
+        "humidity": 70.93,
+        "rainfall": 1448.3
+    },
+    "Salem": {
+        "temperature": 27.14,
+        "humidity": 67.06,
+        "rainfall": 932.7
+    },
+    "Sivaganga": {
+        "temperature": 28.37,
+        "humidity": 69.47,
+        "rainfall": 1322.3
+    },
+    "Thanjavur": {
+        "temperature": 28.06,
+        "humidity": 73.16,
+        "rainfall": 1503.4
+    },
+    "The Nilgiris": {
+        "temperature": 15.01,
+        "humidity": 79.72,
+        "rainfall": 1646.8
+    },
+    "Theni": {
+        "temperature": 26.68,
+        "humidity": 66.08,
+        "rainfall": 1078.0
+    },
+    "Thiruvallur": {
+        "temperature": 28.12,
+        "humidity": 72.45,
+        "rainfall": 1460.7
+    },
+    "Thiruvarur": {
+        "temperature": 27.95,
+        "humidity": 75.63,
+        "rainfall": 1653.2
+    },
+    "Thoothukkudi": {
+        "temperature": 28.81,
+        "humidity": 67.18,
+        "rainfall": 1515.0
+    },
+    "Tiruchirappalli": {
+        "temperature": 28.53,
+        "humidity": 66.73,
+        "rainfall": 1194.4
+    },
+    "Tirunelveli": {
+        "temperature": 28.34,
+        "humidity": 66.45,
+        "rainfall": 2199.3
+    },
+    "Tiruppur": {
+        "temperature": 26.93,
+        "humidity": 68.02,
+        "rainfall": 998.0
+    },
+    "Tiruvannamalai": {
+        "temperature": 27.56,
+        "humidity": 68.89,
+        "rainfall": 1158.9
+    },
+    "Vellore": {
+        "temperature": 24.92,
+        "humidity": 66.71,
+        "rainfall": 1036.4
+    },
+    "Viluppuram": {
+        "temperature": 28.12,
+        "humidity": 70.21,
+        "rainfall": 1125.3
+    },
+    "Virudunagar": {
+        "temperature": 29.09,
+        "humidity": 63.92,
+        "rainfall": 1368.6
+    }
 }
